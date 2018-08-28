@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2018-08-16 11:02:02 +0200'
 categories: jekyll update
+metakeywords: sklep
 ---
 ## A New Post
 
